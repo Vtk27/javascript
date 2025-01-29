@@ -21,8 +21,3 @@ Course Helper is a web application designed to help students manage their course
 - Node.js
 - PostgreSQL
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sarayu19724/course.git
-   cd course-helper
