@@ -24,5 +24,5 @@ Course Helper is a web application designed to help students manage their course
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Vtk27/javascript.git](https://github.com/Vtk27/javascript.git)
+   git clone https://github.com/Vtk27/javascript.git
    cd course-helper
